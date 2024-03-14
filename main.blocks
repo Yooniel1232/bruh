@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="wZl4=sxE]R#zb{s_CzJU" x="0" y="0"><statement name="HANDLER"><block type="bitbot_model" id="T#1}R5]R/u!*[+F?/b@-"><field name="model">BBModel.Classic</field></block></statement></block><block type="device_forever" id="si;y)ws4F._XIwk7ZY%N" x="205" y="0"></block></xml>
